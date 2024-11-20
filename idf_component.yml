@@ -1,0 +1,9 @@
+dependencies:
+  espressif/i2c_bus:
+    version: '>=1.0'
+  idf: '>=5.0'
+description: Sonix audio Amp Driver with i2c_bus
+documentation: https://github.com/nikhil-robinson/sonix-aud02-esp-idf/README.md
+issues: https://github.com/nikhil-robinson/sonix-aud02-esp-idf/issues
+repository: git://github.com/nikhil-robinson/sonix-aud02-esp-idf.git
+version: 1.0.1
